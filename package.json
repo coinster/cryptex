@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/coinster/cryptex/issues"
   },
-  "homepage": "https://github.com/coinster/cryptex#readme"
+  "homepage": "https://github.com/coinster/cryptex#readme",
+  "dependencies": {
+    "ccxt": "^1.10.513",
+    "create-react-app": "^1.4.3"
+  }
 }
